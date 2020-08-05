@@ -1,0 +1,13 @@
+__pycache__/
+
+.vscode/
+
+
+
+credentials.json
+
+
+*.pickle
+
+*.whl
+
